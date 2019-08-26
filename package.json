@@ -1,0 +1,22 @@
+{
+  "name": "kahoot-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willebergh/kahoot-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willebergh/kahoot-bot/issues"
+  },
+  "homepage": "https://github.com/willebergh/kahoot-bot#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.4"
+  }
+}

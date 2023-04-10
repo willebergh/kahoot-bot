@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/willebergh/kahoot-bot#readme",
   "dependencies": {
-    "selenium-webdriver": "^4.0.0-alpha.4"
+    "selenium-webdriver": "^4.8.2"
   }
 }
